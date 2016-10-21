@@ -1,0 +1,5 @@
+https://scotch.io/tutorials/sort-and-filter-a-table-using-angular
+
+https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating
+
+https://scotch.io/tutorials/building-custom-angularjs-filters
